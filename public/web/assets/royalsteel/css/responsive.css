@@ -1,0 +1,193 @@
+/* Normal desktop :1450px. */
+@media (min-width: 1450px) and (max-width: 1920px) {
+.slider-content {
+  padding: 290px 0;
+}
+.awesome-img a img {
+  width: 100%;
+}
+.review-content-2 {
+  padding: 134.5px 40px;
+}
+}
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+
+.panel-body p {
+    margin-bottom: 0;
+}
+.second-row {
+  margin-top: 10px;
+}
+.popular-tag ul li a {
+  margin: 5px 1px;
+  padding: 5px 8px;
+}
+/* home page 2 */
+.reviews-2-area .brand-items {
+  padding: 106px 40px;
+}
+.work-right-text h2 {
+  font-size: 20px;
+}
+.work-right-text {
+  padding: 132px 20px;
+}
+.post-information .entry-meta span i {
+  padding: 0 8px;
+}
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.mainmenu ul#nav > li > a {
+  padding: 0 12px;
+}
+.mainmenu ul#nav li ul.sub-menu {
+  right: 0;
+}
+.sus-btn {
+  margin-top: 20px;
+  margin-left: 0;
+}
+.col-sm {
+  margin-bottom: 30px;
+}
+.about-dec {
+  margin-bottom: 30px;
+}
+.reviews-2-area .brand-items {
+  width: 100%;
+}
+.review-content-2 {
+  width: 100%;
+}
+.work-right-text {
+  padding: 105px 20px;
+}
+.full-width-video-wrap {
+  margin-bottom: 30px;
+}
+.header-right-link a.main-search {
+  padding: 29px 0 29px 10px;
+}
+.portfolio-3 .single-awesome-project {
+  width: 33.34%;
+}
+	
+	
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+	
+.nivo-directionNav {
+  display: none;
+}
+.single-well {
+  margin-bottom: 30px;
+}
+.section-headline h3 {
+  font-size: 21px;
+}
+.first-item {
+  margin-bottom: 0;
+}
+.single-awesome-project {
+  margin-bottom: 30px !important;
+}
+.about-dec,.about-text,.banner-box,.footer-content {
+  margin-bottom: 30px;
+}
+.tab-menu ul.nav li a {
+  margin-right: 4px;
+  padding: 10px 3px;
+}
+.sus-btn {
+  margin-top: 20px;
+  margin-left: 0;
+}
+.section-headline-3 h3 {
+  font-size: 21px;
+}
+.single-awesome-4 {
+  width: 100%;
+}
+.work-left-text {
+  width: 100%;
+}
+.full-width-video-wrap {
+  margin-bottom: 30px;
+}
+.single-well-content {
+  padding-left: 20px;
+  width: 75%;
+}
+.single-left-img {
+  width: 25%;
+}
+.single-member {
+  margin-bottom: 30px;
+}
+.post-information h2 {
+  font-size: 18px;
+}
+.author-avatar {
+  width: 25%;
+}
+.author-description h2 {
+  font-size: 14px;
+}
+.sharing-icon {
+  float: none;
+}
+.social-sharing > h3 {
+  padding: 10px;
+}
+.comments-content-wrap span a {
+  font-size: 14px;
+  line-height: 20px;
+}
+.portfolio-3 .single-awesome-project,.portfolio-2 .single-awesome-project {
+  width: 100%;
+  margin-bottom: 0 !important;
+}
+.project-menu li a {
+  margin: 0 4px 10px;
+  padding: 6px 8px;
+}
+    
+    
+    
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+.tab-menu ul.nav li a {
+  margin-right: 5px;
+  padding: 10px 15px;
+} 
+.footer-content {
+  margin-bottom: 30px;
+}
+.portfolio-3 .single-awesome-project,.portfolio-2 .single-awesome-project {
+  width: 50%;
+  margin-bottom: 0 !important;
+}
+.project-menu li a {
+  margin: 0 1px 10px;
+  padding: 6px 8px;
+}
+  
+  
+ 
+}
+ 

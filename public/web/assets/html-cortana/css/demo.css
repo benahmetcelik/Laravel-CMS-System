@@ -1,0 +1,49 @@
+.header .main-header.main-header-2 .navigation ul > li.menu-item-has-children > ul.sub-menu > li.activeHover > a {
+  color: #ffbf00;
+}
+.header .main-header.main-header-3 .navigation ul > li.menu-item-has-children > ul.sub-menu > li.activeHover > a {
+  color: #ffbf00;
+}
+.header .main-header.main-header-4 .navigation ul > li.menu-item-has-children > ul.sub-menu > li.activeHover > a {
+  color: #ffbf00;
+}
+.header .main-header.main-header-5 + .navBar5 .navigation ul > li.menu-item-has-children > ul.sub-menu > li.activeHover > a {
+  color: #ffbf00;
+}
+.header .main-header.main-header-6 + .navBar6 .navigation ul > li.menu-item-has-children > ul.sub-menu > li.activeHover > a {
+  color: #ffbf00;
+}
+
+.navigation ul > li.menu-item-has-children > ul.sub-menu > li.activeHover {
+  background-color: #222;
+}
+.navigation ul > li.menu-item-has-children > ul.sub-menu > li.activeHover > a {
+  color: #ffbf00;
+}
+.navigation ul > li.menu-item-has-children > ul.sub-menu > li.menu-item-has-children.activeHover > ul.sub-menu {
+  -webkit-transform: translateX(0);
+  -moz-transform: translateX(0);
+  -ms-transform: translateX(0);
+  transform: translateX(0);
+}
+.navigation ul > li.menu-item-has-children.activeHover > ul.sub-menu {
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  -moz-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+}
+.navigation ul > li.menu-item-has-children.megamenu.activeHover ul li.menu-item-has-children > ul.sub-menu {
+  opacity: 1;
+  visibility: visible;
+}
+
+.searchbar {
+  opacity: 0;
+  visibility: hidden;
+}
+.searchbar.active {
+  opacity: 1;
+  visibility: visible;
+}
